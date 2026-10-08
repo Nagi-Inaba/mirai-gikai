@@ -27,7 +27,7 @@ export default function MainGroupLayout({
         <main
           id="main-content"
           tabIndex={-1}
-          className="min-h-dvh bg-mirai-surface md:min-h-[calc(100dvh-96px)]"
+          className="min-h-dvh scroll-mt-24 bg-mirai-surface md:min-h-[calc(100dvh-96px)]"
         >
           {children}
         </main>
