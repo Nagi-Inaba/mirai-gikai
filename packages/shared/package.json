@@ -56,6 +56,14 @@
       "types": "./src/interview-prompts/types.ts",
       "default": "./src/interview-prompts/types.ts"
     },
+    "./interview-prompts/sections": {
+      "types": "./src/interview-prompts/sections.ts",
+      "default": "./src/interview-prompts/sections.ts"
+    },
+    "./interview-prompts/default-sections": {
+      "types": "./src/interview-prompts/default-sections.ts",
+      "default": "./src/interview-prompts/default-sections.ts"
+    },
     "./interview-prompts/stage-transition-guidance": {
       "types": "./src/interview-prompts/stage-transition-guidance.ts",
       "default": "./src/interview-prompts/stage-transition-guidance.ts"
@@ -103,6 +111,14 @@
     "./interview-report/sync-opinions": {
       "types": "./src/interview-report/sync-opinions.ts",
       "default": "./src/interview-report/sync-opinions.ts"
+    },
+    "./mirai-stance/publish-schedule": {
+      "types": "./src/mirai-stance/publish-schedule.ts",
+      "default": "./src/mirai-stance/publish-schedule.ts"
+    },
+    "./mirai-stance/reason-format": {
+      "types": "./src/mirai-stance/reason-format.ts",
+      "default": "./src/mirai-stance/reason-format.ts"
     }
   },
   "dependencies": {
